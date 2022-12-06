@@ -32,6 +32,9 @@ style="padding-right:10px;" />
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="[Alchemy]" width="26px" src='https://user-images.githubusercontent.com/64195458/205885217-531c99bb-6699-49d8-9154-f5e04f0f52cd.jpeg' style="padding-right:10px;" />
+<img align="left" alt="Ganache" width="26px" src='https://user-images.githubusercontent.com/64195458/205888094-ab3278c1-f0b1-4253-81a2-50748d3aeb36.jpeg'style="padding-right:10px;" /> 
+<img align="left" alt="Metamask" width="26px" src='https://user-images.githubusercontent.com/64195458/205884250-c71b1a24-e040-477c-b7fe-b342a2bf85c5.png' style="padding-right:10px;" />
 <br />
 <br />
 

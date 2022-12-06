@@ -13,8 +13,6 @@
 - 🥅 2022 Goals: Learn more about web3
 - ⚡ Fun fact: I love to play tennis 
 - 😻 Check out the Testnet NFT's # https://testnets.opensea.io/assets/goerli/0x10e3b901cecf63b88fb28c506a09500686faff56/6
-### Connect with me:
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sami-bartu/" target="blank" rel=”noopener”><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="SamiBartu" height="30" width="30" /></a>

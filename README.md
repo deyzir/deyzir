@@ -18,17 +18,24 @@
 ### Languages and Tools:
 
 
+<img align="left" alt="Metamask" width="26px" src='https://user-images.githubusercontent.com/64195458/205884250-c71b1a24-e040-477c-b7fe-b342a2bf85c5.png' style="padding-right:10px;" />
+<img align="left" alt="Infura" width="26px" src='https://user-images.githubusercontent.com/64195458/205885129-d41739c8-afff-4099-a967-2697b07b1492.png'
+style="padding-right:10px;" />
+<img align="left" alt="[Alchemy]" width="26px" src='https://user-images.githubusercontent.com/64195458/205885217-531c99bb-6699-49d8-9154-f5e04f0f52cd.jpeg' 
+style="padding-right:10px;" />
+<img align="left" alt="[Remix]" width="26px" src='https://user-images.githubusercontent.com/64195458/205886247-2fd4df9a-7cc7-418e-8c5e-06b7b67be8ed.png'
+style="padding-right:10px;" />
+<img align="left" alt="Ganache" width="26px" src='https://user-images.githubusercontent.com/64195458/205888094-ab3278c1-f0b1-4253-81a2-50748d3aeb36.jpeg'style="padding-right:10px;" />
+<img align="left" alt="Truffle" width="26px" src='https://user-images.githubusercontent.com/64195458/205887781-0022b8b0-8040-488a-b3f3-a4fdc5f14593.png'style="padding-right:10px;" />
+<img align="left" alt="Hardhat" width="26px" src='https://user-images.githubusercontent.com/64195458/205887676-09f19992-7dac-4526-b3bf-95d4aec281a0.png'style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="26px" src='https://user-images.githubusercontent.com/64195458/205882100-99414fdb-4afd-4878-9e3a-87fe41fbef1e.svg' style="padding-right:10px;" />
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Solidity" width="26px" src="https://user-images.githubusercontent.com/64195458/205886935-fea7d8f2-c496-45d4-90a3-18d0927288c2.png" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Gatsby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />

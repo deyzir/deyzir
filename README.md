@@ -28,7 +28,6 @@ style="padding-right:10px;" />
 <img align="left" alt="Ganache" width="26px" src='https://user-images.githubusercontent.com/64195458/205888094-ab3278c1-f0b1-4253-81a2-50748d3aeb36.jpeg'style="padding-right:10px;" />
 <img align="left" alt="Truffle" width="26px" src='https://user-images.githubusercontent.com/64195458/205887781-0022b8b0-8040-488a-b3f3-a4fdc5f14593.png'style="padding-right:10px;" />
 <img align="left" alt="Hardhat" width="26px" src='https://user-images.githubusercontent.com/64195458/205887676-09f19992-7dac-4526-b3bf-95d4aec281a0.png'style="padding-right:10px;" />
-<img align="left" alt="Visual Studio Code" width="26px" src='https://user-images.githubusercontent.com/64195458/205882100-99414fdb-4afd-4878-9e3a-87fe41fbef1e.svg' style="padding-right:10px;" />
 <img align="left" alt="Solidity" width="26px" src="https://user-images.githubusercontent.com/64195458/205886935-fea7d8f2-c496-45d4-90a3-18d0927288c2.png" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />

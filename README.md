@@ -1,4 +1,4 @@
-# Hi there, I'm SAMİ # BARTU [DEYZİR] 👋 
+# Hi there, I'm Sami ~ Bartu [deyzir] 👋 
 
 
 [![Twitter ](https://img.shields.io/twitter/follow/Zasa_deyzir?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FZasa_deyzir&screen_name=Zasa_deyzir)

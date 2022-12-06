@@ -18,8 +18,8 @@
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Solidity" width="26px" src="https://user-images.githubusercontent.com/64195458/205886935-fea7d8f2-c496-45d4-90a3-18d0927288c2.png" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Metamask" width='45px' src='https://user-images.githubusercontent.com/64195458/205884250-c71b1a24-e040-477c-b7fe-b342a2bf85c5.png' style="padding-right:10px;" />
-<img align="left" alt="WEB3.JS" width="38px" src='https://user-images.githubusercontent.com/64195458/205890430-e4ea429e-01a7-4b5b-9c57-deb10fb19be2.jpeg'
+<img align="left" alt="Metamask" width='47px' src='https://user-images.githubusercontent.com/64195458/205884250-c71b1a24-e040-477c-b7fe-b342a2bf85c5.png' style="padding-right:10px;" />
+<img align="left" alt="WEB3.JS" width="37px" src='https://user-images.githubusercontent.com/64195458/205890430-e4ea429e-01a7-4b5b-9c57-deb10fb19be2.jpeg'
 style="padding-right:10px;" />
 <img align="left" alt="Infura" width="26px" src='https://user-images.githubusercontent.com/64195458/205885129-d41739c8-afff-4099-a967-2697b07b1492.png'
 style="padding-right:10px;" />

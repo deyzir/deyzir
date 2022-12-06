@@ -10,8 +10,7 @@
 - 👯 I’m looking to good job ;)
 - 🥅 2022 Goals: Learn more about web3
 - ⚡ Fun fact: I love to play tennis 
-- 😻 Check out the Testnet NFT's 
-
+- 😻 Check out the Testnet NFT's # https://testnets.opensea.io/assets/goerli/0x10e3b901cecf63b88fb28c506a09500686faff56/6
 ### Connect with me:
 []
 

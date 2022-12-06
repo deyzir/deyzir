@@ -18,7 +18,7 @@
 ### Languages and Tools:
 
 
-<img align="left" alt="Metamask" width="26px" src='https://user-images.githubusercontent.com/64195458/205884250-c71b1a24-e040-477c-b7fe-b342a2bf85c5.png' style="padding-right:10px;" />
+<img align="left" alt="Metamask" width="26px" top ='22px'src='https://user-images.githubusercontent.com/64195458/205884250-c71b1a24-e040-477c-b7fe-b342a2bf85c5.png' style="padding-right:10px;" />
 <img align="left" alt="Infura" width="26px" src='https://user-images.githubusercontent.com/64195458/205885129-d41739c8-afff-4099-a967-2697b07b1492.png'
 style="padding-right:10px;" />
 <img align="left" alt="[Alchemy]" width="26px" src='https://user-images.githubusercontent.com/64195458/205885217-531c99bb-6699-49d8-9154-f5e04f0f52cd.jpeg' 

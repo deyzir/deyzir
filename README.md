@@ -6,13 +6,19 @@
 [![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/codestackr.codestackr-theme?label=codeSTACKr%20VS%20Code%20Theme&logo=visualstudiocode&logoColor=ff652f&style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=codestackr.codestackr-theme)
 
 ## I'm a Blockchain Developer!!
+- 💬  Ask me about **JavaScript,Blockchain,Solidity,Nfts.**
+- 📫  How to reach me **bartudan.io@gmail.com**
 - 🌱 I’m currently learning everything about BLOCKCHAİN
 - 👯 I’m looking to good job ;)
 - 🥅 2022 Goals: Learn more about web3
 - ⚡ Fun fact: I love to play tennis 
 - 😻 Check out the Testnet NFT's # https://testnets.opensea.io/assets/goerli/0x10e3b901cecf63b88fb28c506a09500686faff56/6
 ### Connect with me:
-[]
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/sami-bartu/" target="blank" rel=”noopener”><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="SamiBartu" height="30" width="30" /></a>
+
 
 ### Languages and Tools:
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />

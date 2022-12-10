@@ -47,6 +47,15 @@ style="padding-right:10px;" />
   <img align="left" alt="deyzir GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=deyzir&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 </details>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=serhat-zunluoglu&&style=flat-square" align="center" />
+</div>  
+
+
+
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=serhatzunluoglu&show_icons=true&theme=radical&locale=en&layout=compact" alt="serhatzunluoglu"/></p>
+
 
 [twitter]:https://www.linkedin.com/in/sami-bartu/
 [linkedin]:https://linkedin.com/in/codeSTACKr
+

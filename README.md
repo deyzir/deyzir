@@ -27,9 +27,6 @@
 style="padding-right:10px;" />
 <img align="left" alt="Infura" width="26px" src='https://user-images.githubusercontent.com/64195458/205885129-d41739c8-afff-4099-a967-2697b07b1492.png'
 style="padding-right:10px;" />
-  
-  
-  
 <img align="left" alt="Ganache" width="25px" src='https://user-images.githubusercontent.com/64195458/205888094-ab3278c1-f0b1-4253-81a2-50748d3aeb36.jpeg'style="padding-right:10px;" /> 
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
@@ -38,8 +35,6 @@ style="padding-right:10px;" />
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Alchemy" width="25px" src="https://user-images.githubusercontent.com/64195458/209793531-eb7e9696-8890-437d-a90c-267c58db8142.png"style="padding-right:10px;" />
-
-
 <br />
 <br />
 

@@ -49,3 +49,9 @@ style="padding-right:10px;" />
 [twitter]:https://www.linkedin.com/in/sami-bartu/
 [linkedin]:https://linkedin.com/in/codeSTACKr
 
+
+<!-- Snake contributions graph https://github.com/Platane/snk -->
+  ![GitHub Snake Light](https://github.com/lkotlarenko/lkotlarenko/blob/output/github-snake.svg#gh-light-mode-only)
+  ![GitHub Snake dark](https://github.com/lkotlarenko/lkotlarenko/blob/output/github-snake-dark.svg#gh-dark-mode-only)
+  
+
